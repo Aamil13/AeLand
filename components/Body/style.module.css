@@ -1,0 +1,16 @@
+.indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    border: 1px #666 solid;
+    margin: 0;
+  }
+  
+  .indicator.active {
+    color: red;
+    background: black;
+  }
+
+  .btnsss{
+    left:"45%" !important
+  }
